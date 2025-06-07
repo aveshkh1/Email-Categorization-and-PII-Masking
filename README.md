@@ -54,4 +54,4 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Authors
 
-- Avesh Kharani
+- Avesh Kharni
